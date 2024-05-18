@@ -14,7 +14,7 @@ doggowoot backend support:
 
 
 
-![Image of coins](src:"doggowut.web.app/images/confetti-4.gif")
+![Image of coins](https://doggowut.web.app/images/confetti-4.gif)
 
 
 author: claudio cercatore
