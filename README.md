@@ -8,18 +8,19 @@
 ## Introduction
 
 doggowoot backend support:
-* files           descrptio
-                  files to be pushed to openai. returns file_id
+* files           description
+*                 files to be pushed to openai. returns file_id
 * upload          
 * assistant       assistants to be crreated to openai
-code:
+
+```json
                   {
                      assistantName:  the name of 
                      assistantDescr: dont really need 
                      assistantModel: questo mi serve
                     fileIds: do you really need that 🍣 thinking emoji🤔 ?!
                   }
-
+```
 
 
 ![Image of coins](https://doggowut.web.app/images/confetti-29.gif)
