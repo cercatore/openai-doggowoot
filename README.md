@@ -22,7 +22,7 @@ code:
 
 
 
-![Image of coins](https://doggowut.web.app/images/confetti-4.gif)
+![Image of coins](https://doggowut.web.app/images/confetti-29.gif)
 
 
 author: claudio cercatore
