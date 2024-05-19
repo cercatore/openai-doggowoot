@@ -11,14 +11,14 @@ doggowoot backend support:
 * files           description
 *                 files to be pushed to openai. returns file_id
 * upload          
-* assistant       assistants to be crreated to openai
+* assistant       assistants to be created to openai
 
 ```json
                   {
                      assistantName:  the name of 
                      assistantDescr: dont really need 
                      assistantModel: questo mi serve
-                    fileIds: do you really need that 🍣 thinking emoji🤔 ?!
+                     fileIds: do you really need that 🍣 thinking emoji🤔 ?!
                   }
 ```
 
